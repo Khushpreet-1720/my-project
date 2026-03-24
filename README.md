@@ -1,2 +1,3 @@
 # my-project
-about my college
+It is my 1st repository.
+About my college
